@@ -2759,6 +2759,7 @@ autoweek.com,gulfnews.com##.recommended
 reddit.com##.recommended-link
 mirror.co.uk##.recommended-seemore
 dailysabah.com##.recommends
+www.last.fm##.recs-feed-item--ad.recs-feed-item
 hollyscoop.com##.redbar
 newser.com##.regBar
 nomorerack.com##.register-modal
