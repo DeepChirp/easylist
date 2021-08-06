@@ -161,6 +161,7 @@
 ||ftchinese.com/js/log.js
 ||funshion.com/interface/
 ||gia.jd.com^
+||h.trace.qq.com^
 ||hdslb.com/images/isptrack.js
 ||his.tv.sohu.com/his/ping.do?
 ||hisense.com/ta.js
@@ -228,6 +229,7 @@
 ||rec.udn.com^
 ||referer.pixplug.in^
 ||report.qq.com^
+||report.qqweb.qq.com^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
 ||rgd.com.cn/counter/
