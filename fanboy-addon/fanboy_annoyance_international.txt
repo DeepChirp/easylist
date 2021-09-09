@@ -326,6 +326,7 @@ bcc.com.tw###topx
 huanqiukexue.com###totop
 sg169.com##.Mappdiv
 cna.com.tw##.Subscription
+7k7k.com##.anchor_top
 baidu.com##.app-bar
 acfun.cn,baidu.com##.app-guide
 juejin.cn##.app-link
