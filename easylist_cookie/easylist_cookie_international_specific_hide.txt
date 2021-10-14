@@ -1,4 +1,4 @@
-!
+﻿!
 ! ---------- German ----------
 !
 herder.de###BottomNotification
@@ -452,6 +452,7 @@ ctm.net###portalheader\:cookiepanel
 drweb.cn##.SHOWIT-msg_showed
 infiniti.com.tw##.c_128
 u-car.com.tw##.privacyforsite
+dota2.com.cn##.public_hg_top
 !
 ! ---------- Croatian ----------
 !
